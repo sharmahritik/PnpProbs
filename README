@@ -10,7 +10,7 @@ and PicXAA (written by S. Mohammad Ebrahim Sahraeian and Byung-Jun Yoon).
 Install:
 
 You will need a Unix environment with a working C++ compiler to
-compile the GLProbs source. 
+compile the PNPProbs source. 
 
 Type
 $ make
