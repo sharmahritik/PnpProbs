@@ -1,6 +1,6 @@
 /***********************************************
- * # PNPProbs: Combining progressive 
- * # 		and non-progressive alignment methods
+ * # PNPProbs:  
+ * # 		
  * #
  * # Contact: YE Yongtao, Department of Computer Science,
  * #			 The University of Hong Kong.
