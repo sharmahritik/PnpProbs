@@ -1,4 +1,4 @@
-PNPProbs
+PnpProbs
 ========
 
-PNPProbs: assemble multiple sizes of components for multiple sequence alignment
+PnpProbs: Better Multiple Sequence Alignment by Better Handling of Guide Trees
